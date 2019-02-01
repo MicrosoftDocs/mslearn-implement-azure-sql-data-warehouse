@@ -1,3 +1,17 @@
+# Microsoft Learn: Implement a Data Warehouse with Azure SQL Data Warehouse
+
+Azure SQL Data Warehouse provides a relational big data store that can scale to Petabytes of data. In this learning path, you will learn how Azure SQL Data Warehouse can achieve this scale with its’ Massively Parallel Processing (MPP) architecture. Create a data warehouse in minutes and use familiar querying language to build reports. Load massive amounts of data in minutes, and ensure that your data warehouse is secure.
+
+This project contains the source code for the **Implement a Data Warehouse with Azure SQL Data Warehouse** Learning Path.
+
+## Modules
+
+Each folder represents a _module_ in the learning path that you can explore.
+
+| Folder | Module |
+|--------|--------|
+| [import-data-into-asdw-with-polybase](import-data-into-asdw-with-polybase) | Contains the data used in the [Import data into Azure SQL Data Warehouse using PolyBase - Learn](https://docs.microsoft.com/learn/modules/import-data-into-asdw-with-polybase/) module. |
+
 
 # Contributing
 
